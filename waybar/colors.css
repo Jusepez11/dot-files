@@ -1,0 +1,20 @@
+@define-color FOREGROUND #ECE0D9;
+@define-color BACKGROUND rgba(33,26,26,0.25);
+@define-color ACCENT #ECE0D9;
+
+@define-color color0 #000;
+@define-color color1 #4d0f1f; /*Selected*/
+@define-color color2 #46291e;
+@define-color color3 #D1345B; /*Unselected blocks*/
+@define-color color4 #9F8C36;
+@define-color color5 #BC9783;
+@define-color color6 #CAA694;
+@define-color color7 #DCCAC1;
+@define-color color8 #9A8D87;
+@define-color color9 #D1345B; /* borders*/
+@define-color color10 #644431;
+@define-color color11 #3A625F;
+@define-color color12 #9F8C36;
+@define-color color13 #BC9783;
+@define-color color14 #CAA694;
+@define-color color15 #DCCAC1;
