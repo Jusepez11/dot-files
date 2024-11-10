@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Import Current Theme
-DIR="$HOME/.config/rofi"
+DIR="$HOME/.config/dot-files/rofi"
 RASI="$DIR/screenshot.rasi"
 
 # Theme Elements

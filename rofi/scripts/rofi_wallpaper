@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #CM_LAUNCHER=rofi
-DIR="$HOME/.config/rofi"
+DIR="$HOME/.config/dot-files/rofi"
 RASI="$DIR/wallpaper.rasi"
 mesg="Please Select a Wallpaper"
 

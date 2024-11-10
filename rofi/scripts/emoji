@@ -1,5 +1,5 @@
 #!/bin/bash
 
-DIR="$HOME/.config"
+DIR="$HOME/.config/dot-files/"
 
 rofi -show emoji -modi emoji -theme $DIR/rofi/Themes/emojis.rasi

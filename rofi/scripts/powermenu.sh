@@ -5,7 +5,7 @@
 ## Github  : @adi1090x
 ## Twitter : @adi1090x
 
-dir="$HOME/.config/rofi/styles"
+dir="$HOME/.config/dot-files/rofi/styles"
 rofi_command="rofi -theme $dir/five.rasi"
 
 uptime=$(uptime -p | sed -e 's/up //g')
